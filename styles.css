@@ -19,6 +19,12 @@ body{
 
 }
 
+img{
+    display:block;
+    max-width: 100%;
+    justify-self: center;
+  }
+
 #img-div{
     background-color:#fff;
     border-radius: 5px;
