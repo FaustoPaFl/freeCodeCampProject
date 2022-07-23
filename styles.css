@@ -20,9 +20,7 @@ body{
 }
 
 img{
-    display:block;
     max-width: 100%;
-    justify-self: center;
   }
 
 #img-div{
